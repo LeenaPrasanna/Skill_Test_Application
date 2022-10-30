@@ -1,0 +1,157 @@
+h1{
+  text-align: center;
+  color:purple;
+
+}
+h2{
+  text-align: center;
+  color:indigo;
+}
+
+nav{
+	display:flex;
+	align-items: center;
+	background:rgb(135,43,82);
+}
+.image{
+	height: 50px;
+padding-left: 20px;
+align-items: center;
+}
+ul{
+	display:flex;
+	padding-left:800px;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+ padding-right: 50px;
+}
+.home{
+	  background-color:rgb(201, 14, 30);
+  border: none;
+  color: white; 
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.ranking{
+	  background-color:rgb(201, 14, 30);
+  border: none;
+  color: white; 
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.logout{
+	  background-color: rgb(201, 14, 30);
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.home:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+.ranking:hover{
+	  background-color: rgb(230, 163, 64);
+  border: none;
+  color: white;
+  padding-top:6px;
+  padding-bottom:7px;
+  padding-right:8px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.logout:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+button{
+  padding-top: 10px;
+  padding-left:15px;
+  background-color:rgb(245, 182, 66);
+  border-radius: 25px;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-right: 15px;
+}
+button:hover{
+  background-color:rgb(237, 202, 62);
+  padding-top: 10px;
+  padding-left:15px;
+  border-radius: 25px;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-right: 15px;
+}
+.ease{
+  padding-top: 10px;
+  padding-left:20px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+.ease:hover{
+   padding-top: 10px;
+  padding-left:20px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+.buttons{
+  display:flex;
+  padding-left: 100px;
+}
+.easy{
+    padding-left:10px;
+}
+.medium{
+  padding-left:280px;
+}
+.hard{
+  padding-left:300px;
+}
+.images{
+  display :flex;
+  padding-left:50px;
+}
+.img1{
+  padding-top:80px;
+  height :250px;
+  padding-left:20px;
+}
+.img2{
+  padding-top:40px;
+  padding-left:200px;
+ height:350px;
+}
+.img3{
+  padding-top:120px;
+  padding-left:200px;
+  height:200px;
+  }

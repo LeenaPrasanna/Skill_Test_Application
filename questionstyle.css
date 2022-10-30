@@ -1,0 +1,148 @@
+body{
+	background-image:url( "https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg");
+	background-size: 1600px; 
+}
+.ques{
+	text-align: left;
+	padding-top:100px;
+	font-weight: 800;
+	font-size:25px;
+	font-family:"Times New Roman", Times, serif;
+;
+}
+.option{
+	text-align: left;
+	font-size:20px;
+	font-family:"Times New Roman", Times, serif;
+}
+.but{
+	  align-items: left;
+	  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+.s{
+	 text-align: left;
+	  background-color: rgb(63, 106, 235);
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.b{
+	padding-top:30px;
+}
+.sub{
+	padding-top:20px;
+}
+.but:hover{
+	background-color: rgb(195, 69, 245);
+}
+.s:hover{
+	background-color: rgb(245, 174, 93);
+}
+h1{
+  text-align: center;
+  color:purple;
+
+}
+h3{
+ text-align: center;
+ color:blue;
+}
+nav{
+	display:flex;
+	align-items: center;
+	background:rgb(135,43,82);
+}
+.image{
+	height: 50px;
+padding-left: 20px;
+align-items: center;
+}
+ul{
+	display:flex;
+	padding-left:800px;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+ padding-right: 50px;
+}
+.home{
+	  background-color:rgb(201, 14, 30);
+  border: none;
+  color: white; 
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.ranking{
+	  background-color:rgb(201, 14, 30);
+  border: none;
+  color: white; 
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.logout{
+	  background-color: rgb(201, 14, 30);
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.home:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+.ranking:hover{
+	  background-color: rgb(230, 163, 64);
+  border: none;
+  color: white;
+  padding-top:6px;
+  padding-bottom:7px;
+  padding-right:8px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.logout:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}

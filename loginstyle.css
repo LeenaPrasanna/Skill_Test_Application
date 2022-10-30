@@ -1,0 +1,61 @@
+body{
+	
+	background: rgb(185, 224, 105);
+	background-image: url("https://thumbs.dreamstime.com/b/login-illustration-letter-cubes-forming-word-36025252.jpg");
+	/*text-align:center;*/
+	background-size: cover;
+	background-origin: border-box;
+	background-position: center top;
+	background-size:cover ;
+
+}
+.ti{
+	text-align: center;
+}
+form{
+	
+	box-sizing: border-box;
+	height: 250px;
+	width: 250px;
+	position: absolute;
+	top: 15%;
+	left:43%;
+	text-align: center;
+	border:ridge;
+	padding-top: 3%;
+	background-image: url("https://images.unsplash.com/photo-1519750783826-e2420f4d687f");
+	background-size:250px;
+}
+.l{
+	display: flex;
+justify-content: space-around;
+
+}
+.login{
+	background:rgb(237, 235, 116);
+}
+.reg{
+	text-decoration: none;
+	color: blue;
+}
+.reg:hover{
+	background:rgb(210, 200, 100);
+
+}
+
+.a{
+	text-decoration: none;
+
+}
+.re{
+	background: orange;
+}
+.reg :hover{
+	background:yellow;
+}
+button{
+	background-color: pink;
+}
+button :hover{
+	background-color:rgb(210, 200, 100);
+}

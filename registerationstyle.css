@@ -1,0 +1,57 @@
+body {
+ 	background: rgb(235, 169, 219);
+ 	background: url("https://www.athletadesk.com/wp-content/uploads/2016/08/join-background.jpg");
+ 	text-align: center;
+ 	background-size: cover;
+}
+.ti{
+	text-align: center;
+	color : orange;
+}
+form{
+	border:ridge;
+ 	top:15%;
+    left:40%;
+	height: 300px;
+	width: 400px;
+
+	box-sizing: border-box;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position:absolute;
+	text-align: center;
+	background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+	background-size: cover;
+	color:;
+}
+
+.submit{
+	background: rgb(145,206,237);
+
+
+}
+.login{
+	text-decoration: none;
+
+}
+.submit:hover{
+	background-color: pink;
+}
+a:hover{
+   color: black;
+}
+.reg{
+	color: green;
+	text-align: center;
+}
+/*.l{
+	display: flex;
+justify-content: space-around;
+
+}*/
+.login:hover{
+background: pink;
+border:ridge;
+border-color: skyblue;
+
+}

@@ -1,0 +1,90 @@
+.img{
+	height:70px;
+	cursor:grab;
+}
+body{
+	box-sizing: border-box;
+	
+}
+nav{
+	box-sizing: border-box;
+	display: flex;
+	padding-left: 50px;
+	background:purple;
+}
+ul{
+	display: flex;
+    text-align:center;
+    padding-left: 600px;
+    list-style: none;
+    cursor:grabbing;
+    padding-top: 10px;
+    padding-left: 650px;
+    font-family: sans-serif;
+}
+.home{
+	   padding-right: 20px;
+
+}	    
+.login{
+	   padding-right: 20px;
+	   padding-left: 40px; 
+}
+.register{
+	   padding-right: 20px;
+	   padding-left: 40px; 
+}
+.ranking{
+	padding-right: 20px;
+	   
+	   padding-left: 40px;
+}
+.logout{
+	padding-right: 20px;
+	padding-left: 40px;
+	text-align: center;
+}
+.home a{
+	text-decoration: none;
+	cursor:grabbing;
+	color:skyblue;
+	text-align: center;
+}
+.login a{
+	  text-decoration: none;
+	   cursor:grabbing; 
+	   color:skyblue;
+	   text-align: center;
+}
+.register a{
+	  text-decoration: none;
+	   cursor:grabbing; 
+	   color:skyblue;
+	   text-align: center;
+}
+.logout a{
+	text-decoration: none;
+	cursor:grabbing;
+	color:skyblue;
+	text-align: center;
+}
+.ranking a{
+	text-decoration: none;
+	cursor:grabbing;
+	color:skyblue;
+	text-align: center;
+}
+.mainimg{
+	margin-top:1%;
+	margin-left:29%;
+	height:500px;
+}
+.tit{
+	color:rgb(125, 25, 10);
+	text-align: center;
+}
+ a:hover{
+	background:rgb(75, 10, 92);
+	color:pink;
+	
+}

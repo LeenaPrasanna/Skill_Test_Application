@@ -1,0 +1,111 @@
+body{
+  background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg");
+  background-size:cover;
+  text-align: center;
+}
+h1{
+  color:purple;
+}
+h2{
+  color:indigo;
+}
+h3{
+  color:blue;
+}
+nav{
+	display:flex;
+	align-items: center;
+	background:rgb(230, 211, 190);
+}
+.image{
+	height: 50px;
+  align-items: center;
+  padding-left:20px;
+}
+ul{
+	display:flex;
+  padding-left:800px;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+ padding-right: 50px;
+}
+.home{
+	  background-color:rgb(164, 108, 235);
+  border: none;
+  color: white; 
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.ranking{
+	  background-color: rgb(164, 108, 235);
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.logout{
+	  background-color: rgb(164, 108, 235);
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.home:hover{
+	background-color: rgb(230,163,64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+.ranking:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+.logout:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+.question{
+  font-size:15px;
+  font-weight:900;
+  text-align: left;
+  font-family : Courier New,Lucida Console,Monaco;
+}
+.answer{
+  font-size:15px;
+  font-weight:700;
+  font-family : Courier New,Lucida Console,Monaco;
+  text-align: left;
+}

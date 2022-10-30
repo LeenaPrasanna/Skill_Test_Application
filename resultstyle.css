@@ -1,0 +1,135 @@
+div{
+	text-align: center;
+	font-size: 25px;
+	font-weight: 1000;
+	font-family:"Times New Roman", Times, serif;
+}
+h1{
+	color:purple;
+	font-weight:900;
+	font-size: 45px;
+}
+h2{
+	color:indigo;
+	font-weight:800;
+	font-size: 40px;
+}
+h3{
+  color:blue;
+}
+body{
+	text-align : center;
+	background-image: url('https://t3.ftcdn.net/jpg/02/69/09/68/360_F_269096877_WfkjIEyp5MW9ddTKeS56shEhgWu9KCZg.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+nav{
+	display:flex;
+	align-items: center;
+	background: rgb(135, 43, 82);
+}
+.image{
+	height: 50px;
+padding-left: 20px;
+align-items: center;
+}
+ul{
+	display:flex;
+	padding-left:600px;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+ padding-right: 50px;
+}
+.home{
+	  background-color:rgb(201, 14, 30);
+  border: none;
+  color: white; 
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.answer{
+	  background-color: rgb(201, 14, 30);
+  border: none;
+  color: white;
+  padding-top:6px;
+  padding-bottom:7px;
+  padding-right:8px;
+  padding-left: 8px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.ranking{
+	  background-color: rgb(201, 14, 30);
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.logout{
+	  background-color: rgb(201, 14, 30);
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.home:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+.answer:hover{
+	  background-color: rgb(230, 163, 64);
+  border: none;
+  color: white;
+  padding-top:6px;
+  padding-bottom:7px;
+  padding-right:8px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.ranking:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+.logout:hover{
+	background-color: rgb(230, 163, 64);
+	border: none;
+  color: white;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+

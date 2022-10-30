@@ -1,0 +1,105 @@
+.img{
+	height:70px;
+	cursor:grab;
+}
+body{
+	box-sizing: border-box;
+
+}
+nav{
+	box-sizing: border-box;
+	display: flex;
+	padding-left: 50px;
+	background:green;
+}
+ul{
+	display: flex;
+    text-align:center;
+    list-style: none;
+    cursor:grabbing;
+    padding-top: 10px;
+    padding-left: 850px;
+    font-family: sans-serif;
+}
+.home{
+	   padding-right: 20px;
+
+}	    
+
+.ranking{
+	padding-right: 20px;
+	   
+	   padding-left: 50px;
+}
+.logout{
+	padding-right: 20px;
+	padding-left: 50px;
+	text-align: center;
+}
+.home a{
+	text-decoration: none;
+	cursor:grabbing;
+	color:orange;
+	text-align: center;
+}
+
+.logout a{
+	text-decoration: none;
+	cursor:grabbing;
+	color:orange;
+	text-align: center;
+}
+.ranking a{
+	text-decoration: none;
+	cursor:grabbing;
+	color:orange;
+	text-align: center;
+}
+.mainimg{
+	margin-top:1%;
+	margin-left:10%;
+	height: 400px;
+}
+.img2{
+	margin-top:1%;
+	margin-left:1%;
+	height: 400px;
+}
+
+.tit{
+	color:brown;
+	text-align: center;
+}
+ a:hover{
+	background:purple;
+	color:skyblue;
+	
+}
+div{
+	box-sizing: border-box;
+	display: flex;
+}
+.t{
+	align-content: center;
+	padding-top: 180px;
+	padding-left: 100px;
+}
+.but{
+	background: purple;
+	height:100px;
+	border-radius: 25px;
+	font-size:80%;
+	color:orange;
+}
+.q{
+	color:yellow;
+	text-decoration: none;
+}
+.but:hover{
+	cursor:grab;
+	background:blue;
+}
+.msg{
+	text-align: center;
+	color:blue;
+}
